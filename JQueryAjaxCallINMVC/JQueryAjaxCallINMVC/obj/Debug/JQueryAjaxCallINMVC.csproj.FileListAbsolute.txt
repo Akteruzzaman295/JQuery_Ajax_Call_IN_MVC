@@ -1,0 +1,38 @@
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\JQueryAjaxCallINMVC.dll.config
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\JQueryAjaxCallINMVC.dll
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\JQueryAjaxCallINMVC.pdb
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.dll
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.xml
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\obj\Debug\JQueryAjaxCallINMVC.dll
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\obj\Debug\JQueryAjaxCallINMVC.pdb
+C:\Users\user1\Desktop\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\obj\Debug\JQueryAjaxCallINMVC.csprojResolveAssemblyReference.cache
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\JQueryAjaxCallINMVC.dll.config
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\JQueryAjaxCallINMVC.dll
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\JQueryAjaxCallINMVC.pdb
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Helpers.dll
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Mvc.dll
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Razor.dll
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.Deployment.dll
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.dll
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.Razor.dll
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Razor.xml
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.xml
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.Deployment.xml
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Webpages.Razor.xml
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Helpers.xml
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\bin\System.Web.Mvc.xml
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\obj\Debug\JQueryAjaxCallINMVC.csprojAssemblyReference.cache
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\obj\Debug\JQueryAjaxCallINMVC.csproj.CoreCompileInputs.cache
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\obj\Debug\JQueryAjaxCallINMVC.csproj.CopyComplete
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\obj\Debug\JQueryAjaxCallINMVC.dll
+E:\C# problem solve\JQueryAjaxCallINMVC\JQueryAjaxCallINMVC\obj\Debug\JQueryAjaxCallINMVC.pdb
